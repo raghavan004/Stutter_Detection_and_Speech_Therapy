@@ -1,5 +1,6 @@
-# Vashisht2.0
-# Problem Statement
+# Stutter Detection and Speech Therapy
+
+# IDEA
 Develop a deep learning-based and NLP system that detects, classifies, and auto-completes stuttered speech in real-time, improving accessibility and communication.
 # Team Members:
 Raghavan R ,
